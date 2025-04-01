@@ -1,2 +1,2 @@
 # learn-k-means
-<p>Learning K-Means</p>
+<p>Learning K-Means Clustering</p>
